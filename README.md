@@ -2,9 +2,11 @@
 SLIDDES © 2021
 
 ## About
-SLIDDES Tool is a collection of read to use scripts for a Unity Project.
+SLIDDES Tool is a collection of ready to use scripts for a Unity Project.
+Its basicly scripts that I use/need alot in my projects
 Its currently a very work in progress.
 You are using this spagetti own your own risk.
+You can use it in your projects but you cannot sell it on its own.
 
 ## Code Structure Namespaces
 ### SLIDDES.Components
