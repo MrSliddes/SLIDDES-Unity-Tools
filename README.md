@@ -7,16 +7,16 @@ Its currently a very work in progress.
 You are using this spagetti own your own risk.
 
 ## Code Structure Namespaces
-SLIDDES.Components
+### SLIDDES.Components
 - Contains scripts that can be used as components for gameobjects
-SLIDDES.Editor
+### SLIDDES.Editor
 - Scripts that are only used in the Unity Editor and are not included in the build
-SLIDDES.IO
+### SLIDDES.IO
 - Contains scripts that are used for input / output, like saving or loading.
 - Contains scripts that deal with data
-SLIDDES.MathC
+### SLIDDES.MathC
 - Contains custom math functions
-SLIDDES.String
+### SLIDDES.String
 - Contains string related functions
 
 ## Other
