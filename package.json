@@ -1,0 +1,21 @@
+{
+  "name": "com.sliddes.tools",
+  "version": "0.0.2",
+  "displayName": "SLIDDES Tools",
+  "description": "SLIDDES Tool is a collection of read to use scripts for a Unity Project.",
+  "unity": "2020.4",
+  "unityRelease": "0b5",
+  "keywords": [
+    "sliddes",
+    "SLIDDES",
+    "tools",
+    "scripts",
+    "collection"
+  ],
+  "author": {
+    "name": "SLIDDES",
+    "email": "support@sliddes.com",
+    "url": "https://www.sliddes.com"
+  },
+  "type": "tool"
+}
